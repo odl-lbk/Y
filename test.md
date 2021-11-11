@@ -7,3 +7,5 @@
 >2
 >>2
 >>>3
+  System.out.println("helloworld");
+  printf()
